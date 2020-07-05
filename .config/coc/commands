@@ -1,0 +1,7 @@
+coc-format-selected
+eslint.executeAutofix
+prettier.open-output
+tslint.fixAllProblems
+tslint.lintProject
+tsserver.openTsServerLog
+prettier.formatFile

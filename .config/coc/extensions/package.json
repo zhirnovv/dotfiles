@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "coc-clangd": ">=0.4.11",
+    "coc-css": ">=1.2.4",
+    "coc-emmet": ">=1.1.4",
+    "coc-eslint": ">=1.2.7",
+    "coc-html": ">=1.2.4",
+    "coc-json": ">=1.2.6",
+    "coc-prettier": ">=1.1.15",
+    "coc-python": ">=1.2.12",
+    "coc-styled-components": ">=0.3.0",
+    "coc-tslint": ">=1.0.17",
+    "coc-tsserver": ">=1.4.15"
+  }
+}

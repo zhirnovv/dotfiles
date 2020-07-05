@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/zhirnovv/Documents/Projects/SPEC/dev/api'
+let g:netrw_dirhist_0='/Users/zhirnovv/Documents/Projects/STAC/dev/static/src'
+let g:netrw_dirhist_9='/Users/zhirnovv/.config/yabai'
+let g:netrw_dirhist_8='/Users/zhirnovv/Documents/Projects/diazepam/estilo'
+let g:netrw_dirhist_7='/Users/zhirnovv/Documents/Projects/STAC/dev'
+let g:netrw_dirhist_6='/Users/zhirnovv/Documents/Projects/STAC/dev/server'
+let g:netrw_dirhist_5='/Users/zhirnovv/Documents/Projects/STAC/dev'
+let g:netrw_dirhist_4='/Users/zhirnovv/Documents/Projects/STAC/dev/static'
+let g:netrw_dirhist_3='/Users/zhirnovv/Documents/Projects/STAC/dev/static/src'
+let g:netrw_dirhist_2='/Users/zhirnovv/Documents/Projects/STAC/dev/static/src/locale'

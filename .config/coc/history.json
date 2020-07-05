@@ -1,0 +1,38 @@
+{
+  "commands": {
+    "%2FUsers%2Fzhirnovv%2FDocuments%2FProjects%2FPUBFILIN": [
+      "prettier",
+      "pre",
+      "eslin",
+      "tsserver."
+    ],
+    "%2FUsers%2Fzhirnovv%2FDocuments%2FProjects%2FGLAR": [
+      "tslin",
+      "tslint"
+    ],
+    "%2FUsers%2Fzhirnovv%2FDocuments%2FProjects%2FSPECMAX": [
+      "tslint",
+      "prettier"
+    ],
+    "%2FUsers%2Fzhirnovv%2F": {
+      "config%2Fnvim%2Fsettings": [
+        "§"
+      ]
+    }
+  },
+  "lists": {
+    "%2FUsers%2Fzhirnovv%2FDocuments%2FProjects%2FPUBFILIN": [
+      "fol",
+      "com",
+      "ex"
+    ],
+    "%2FUsers%2Fzhirnovv%2FDocuments%2FProjects%2FSPECMAX": [
+      "folde"
+    ],
+    "%2FUsers%2Fzhirnovv%2F": {
+      "config%2Fnvim%2Fsettings": [
+        "a"
+      ]
+    }
+  }
+}
