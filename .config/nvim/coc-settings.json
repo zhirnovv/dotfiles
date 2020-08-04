@@ -1,8 +1,5 @@
 {
-  "coc.preferences.formatOnSaveFiletypes": ["css", "typescript", "typescriptreact", "javascript", "javascriptreact", "ejs"],
-  "prettier.tabWidth": 2,
-  "prettier.semi": true,
-  "prettier.trailingComma": "es5",
+  "coc.preferences.formatOnSaveFiletypes": ["css", "scss", "typescript", "typescriptreact", "javascript", "javascriptreact", "ejs"],
   "styled-components.tags": [
     "styled",
     "css",

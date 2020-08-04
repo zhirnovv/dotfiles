@@ -34,3 +34,5 @@ function n --wraps nnn --description 'support nnn quit and change directory'
 end
 rvm default
 set -g fish_user_paths "/usr/local/opt/ruby/bin" $fish_user_paths
+set -g fish_user_paths "/usr/local/sbin" $fish_user_paths
+set -g fish_user_paths "/usr/local/opt/ncurses/bin" $fish_user_paths

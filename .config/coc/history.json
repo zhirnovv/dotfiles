@@ -31,7 +31,16 @@
     ],
     "%2FUsers%2Fzhirnovv%2F": {
       "config%2Fnvim%2Fsettings": [
-        "a"
+        "a",
+        "act",
+        "dia"
+      ]
+    }
+  },
+  "actions": {
+    "%2FUsers%2Fzhirnovv%2F": {
+      "config%2Fnvim%2Fsettings": [
+        ":Co"
       ]
     }
   }

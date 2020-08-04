@@ -2,12 +2,13 @@
 let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
 let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 set termguicolors
-colorscheme tempus_future
+let ayucolor="dark"
+colorscheme ayu
 set background=dark
 set t_Co=256
 
 let g:lightline = {
-      \ 'colorscheme': 'molokai',
+      \ 'colorscheme': 'ayu',
       \ 'active': {
       \   'left': [ [ 'mode', 'paste' ],
       \             [ 'gitbranch', 'readonly', 'filename', 'modified' ] ]
