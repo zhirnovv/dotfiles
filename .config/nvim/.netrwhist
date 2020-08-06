@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/zhirnovv/Documents/Projects/AG'
 let g:netrw_dirhist_4='/Users/zhirnovv/Documents/Projects/STAC/dev/static/src/components'
 let g:netrw_dirhist_3='/Users/zhirnovv/Documents/Projects/STAC/dev/static/src/assets'
 let g:netrw_dirhist_2='/Users/zhirnovv/Documents/Projects/mstsc.js/server'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_9='/Users/zhirnovv/Documents/Projects/WeGoTrip/store/src/com
 let g:netrw_dirhist_8='/Users/zhirnovv/Documents/Projects/AG'
 let g:netrw_dirhist_7='/Users/zhirnovv/Documents/Projects/WeGoTrip/store/src/components/PaymentForm'
 let g:netrw_dirhist_6='/Users/zhirnovv/Documents/Projects/WeGoTrip/store/build'
-let g:netrw_dirhist_5='/Users/zhirnovv/Documents/Projects/STAC/dev/static/src/locale/ru/ContactInfo'
